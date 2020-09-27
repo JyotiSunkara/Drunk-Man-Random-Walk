@@ -1,6 +1,6 @@
-# Drunk-Man-Random-Walk
+# Random-Walk
 
-Two drunks start out together at the origin, each having equal probability of making a step to the left or to the right along the x axis. Find the probability that they meet again after each one makes N steps. It is understood that they make steps simultaneously.
+Two drunk people start out together at the origin, each having equal probability of making a step to the left or to the right along the x axis. Find the probability that they meet again after each one makes N steps. It is understood that they make steps simultaneously.
 
 Consider the random walk of a single drunk person along the x-axis with initial position at `t = 0,`  number of steps `n = 0` be at the origin `x = 0`.
 
