@@ -38,5 +38,7 @@ Then plot the graph taking the value of N along the x-axis and the probability o
 
 ` P(N) = count[N]/(t*t)`
 
+![graph](graph.png)
+
 
 
